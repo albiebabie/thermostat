@@ -1,1 +1,1 @@
-# Thermstat
+# Thermostat
